@@ -8,6 +8,11 @@
         <div class="form-group col-lg-5">
           <select class="form-control" name="" id="">
             <option value="">Semua Lokasi</option>
+            <option value="">Jakarta Barat</option>
+            <option value="">Jakarta Timur</option>
+            <option value="">Jakarta Selatan</option>
+            <option value="">Jakarta Utara</option>
+            <option value="">Jakarta Pusat</option>
           </select>
         </div>
         <div class="form-group col-lg-1">

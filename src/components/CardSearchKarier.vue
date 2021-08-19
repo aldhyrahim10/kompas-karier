@@ -10,11 +10,20 @@
             <div class="form-group col-lg-3">
               <select class="form-control" name="depatment" id="department">
                 <option value="">Semua Department</option>
+                <option value="">HR</option>
+                <option value="">IT</option>
+                <option value="">Marketing</option>
+                <option value="">Design</option>
               </select>
             </div>
             <div class="form-group col-lg-3">
               <select class="form-control" name="lokasi" id="lokasi">
                 <option value="">Semua Lokasi</option>
+                <option value="">Jakarta Barat</option>
+                <option value="">Jakarta Timur</option>
+                <option value="">Jakarta Selatan</option>
+                <option value="">Jakarta Utara</option>
+                <option value="">Jakarta Pusat</option>
               </select>
             </div>
             <div class="form-group col-lg-1">
